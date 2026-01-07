@@ -1,0 +1,7 @@
+<header>
+<h1>#<%= key %> | <input type="checkbox" class="toggle" title="Toggle light/dark theme"></h1>
+</header>
+<%- postList(self) %>
+<footer>
+<p>&crarr; <a href="<%= pathToRoot %>index.html">Endarrere</a>
+</footer>
